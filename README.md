@@ -10,7 +10,7 @@ operations. Display the results.
 
 ## Exercise 2: SortedTableMap
 
-Add a main method to the SsortedTableMap class from Lesson10Examples.
+Add a main method to the SortedTableMap class from Lesson10Examples.
 
 Create a sorted map of Strings. Populate the map with several entries
 and perform some lookups as well as *put* and *remove* operations.
