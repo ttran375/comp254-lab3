@@ -1,0 +1,9 @@
+{
+    "flake8.args": [
+        "--ignore=E501,E111,E114,E226"
+    ],
+    "pylint.args": [
+        "--disable=E0202,C0114,R1705"
+    ],
+    "files.insertFinalNewline": true
+}
